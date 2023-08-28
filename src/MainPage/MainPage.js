@@ -17,7 +17,7 @@ export default function MainPage() {
     <div className='MainPageClass'>
         <div className='LoginContainerClass'>
               <input type="text" placeholder="Email" className='InputTypeClass' onChange={(e)=>SetUseEmail(e.target.value)} />
-              <div className='btmLogin' onClick={()=>CheckExistance()}><p>Login</p></div>
+              <div className='btmLogin' onClick={() => CheckExistance()}><p>sign up</p></div>
               <div className='DivResult'><p>{FetchedData}</p></div>
             
         </div>
