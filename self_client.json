@@ -1,0 +1,20 @@
+{"scope":["ZohoCRM.modules.all"],
+"expiry_time":1693245983657,
+"client_id":"1000.0P61F9QGZISODI1JEPZTBV4OZRO0XA",
+"client_secret":"79e8b8a31dd36fb13e4cfcecc5b1646a4ab2a52779",
+"code":"1000.34081612ee346adf9425f41fedb6a927.5b9ec8779e7e37e6b66b6500e16cb630",
+"grant_type":"authorization_code"}
+
+
+{
+    "access_token": "1000.8db30dc9e0b726812c42dbe16ce5819a.4efb1d4425002e1445ef98193b4b2086",
+    "refresh_token": "1000.68bd17e74faa95ab6824acc737c15f08.d54a4a38ed1b878195b584c7c4e4b872",
+    "api_domain": "https://www.zohoapis.com",
+    "token_type": "Bearer",
+    "expires_in": 3600
+}
+
+
+https: //www.zohoapis.com/crm/v2/Leads
+
+https: //www.accounts.zoho.com/oauth/v2/token
